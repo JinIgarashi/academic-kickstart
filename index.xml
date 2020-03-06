@@ -1,16 +1,141 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright>
+    <title>GIS for Water</title>
+    <link>https://water-gis.com/</link>
+      <atom:link href="https://water-gis.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>GIS for Water</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Wed, 16 Oct 2019 23:09:22 +0900</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Academic</title>
-      <link>/</link>
+      <title>GIS for Water</title>
+      <link>https://water-gis.com/</link>
     </image>
+    
+    <item>
+      <title>[WaQuAC-NET Newsletter Vol42]Site visit reports of Tohoku disaster area &amp; Bangkhen WTP in Bangkok</title>
+      <link>https://water-gis.com/publication/waquac-vol42/</link>
+      <pubDate>Wed, 16 Oct 2019 23:09:22 +0900</pubDate>
+      <guid>https://water-gis.com/publication/waquac-vol42/</guid>
+      <description>&lt;p&gt;Please see my posts in the newsletter from 
+&lt;a href=&#34;http://www.waquac.net/english/pdf/newsletter_vol.42_en.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[FOSS4G2019]Case Study of Data Collection &amp; Data Sharing for Rural Water Supply Management in Rwanda</title>
+      <link>https://water-gis.com/talk/foss4g2019_rwanda/</link>
+      <pubDate>Fri, 30 Aug 2019 22:27:27 +0900</pubDate>
+      <guid>https://water-gis.com/talk/foss4g2019_rwanda/</guid>
+      <description>&lt;p&gt;Water and Sanitation Corporation (hereinafter, called WASAC) and Japan International Cooperation Agency (hereinafter, called JICA) are coducting the project for strengthening operation and maintenance of Rural Water Supply Systems in Rwanda (hereinafter, called RWASOM) since 2015. RWASOM mainly supports 4 model districts - Rwamagana, Kayonza, Ngoma and Kirehe at the Eastern Province in Rwanda. The project conducts developments of manual and capacity building of WASAC, Districts and Private Operators.&lt;/p&gt;
+&lt;p&gt;Currently, most of countries focus SDGs to achieve 100% water access by 2030. Because of that, it is very necessary to collect and analyse the GIS inventory data for water supply management, especially planning and improvement of operation and maintenance.&lt;/p&gt;
+&lt;p&gt;Now WASAC has started to map all of water facilities data in rural area under support of RWASOM since July 2018. Then, we also started to use collected data by offline since Feb 2019.&lt;/p&gt;
+&lt;p&gt;We spent the minimum budget to conduct our mapping and data sharing without customizing FOSS4G so much. This our approaches might be very useful for other users in developing countries. So we would like to share our experience and approach of FOSS4G in Rwanda.&lt;/p&gt;
+&lt;p&gt;See the video 
+&lt;a href=&#34;https://media.ccc.de/v/bucharest-30-case-study-of-data-collection-data-sharing-for-rural-water-supply-management-in-rwanda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[FOSS4G2019]Case Study of Non-Revenue Water Management of Narok water in Kenya</title>
+      <link>https://water-gis.com/talk/foss4g2019_kenya/</link>
+      <pubDate>Wed, 28 Aug 2019 22:24:22 +0900</pubDate>
+      <guid>https://water-gis.com/talk/foss4g2019_kenya/</guid>
+      <description>&lt;p&gt;Narok Water and Sewerage Services Company (hereinafter, called NARWASSCO) supplies water at Narok town and Ololulung&amp;rsquo;a town in Kenya. As of February 2019,we have 4,689 water connections and 74,314m3 of water consumption in Narok, also have 580 water connections and 5,736m3 of water consumption in Ololulung&amp;rsquo;a. Total length of pipeline is 144.2km in Narok and 71.7km in Ololulung&amp;rsquo;a.&lt;/p&gt;
+&lt;p&gt;NARWASSCO, currently uses FOSS4G to do data collection and data utilization for water supply services. For example, mapping of all water facilities in the company, and the collected data have been used to improve operations (application of new connection, leakage management, meter reading, customer care, etc.). We can say Narok water is the first water company which started to use FOSS4G in Kenya.&lt;/p&gt;
+&lt;p&gt;Our interesting is how water company use GIS inventory data to reduce Non-Revenue Water (NRW). NRW means physical losses(leakage) and commercial losses(meter reading error, illegal connection, etc.). We think GIS technology can contribute a lot of things for water supply services, so we would like to share our experience and get some idea from participants of FOSS4G conference.&lt;/p&gt;
+&lt;p&gt;See the video 
+&lt;a href=&#34;https://media.ccc.de/v/bucharest-135-case-study-of-non-revenue-water-management-of-narok-water-in-kenya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[WaQuAC-NET Newsletter Vol41] GIS and Water Supply</title>
+      <link>https://water-gis.com/publication/waquac-vol41/</link>
+      <pubDate>Tue, 16 Jul 2019 23:01:52 +0900</pubDate>
+      <guid>https://water-gis.com/publication/waquac-vol41/</guid>
+      <description>&lt;p&gt;I did a presentation about &amp;ldquo;GIS and Water Supply&amp;rdquo; as an activity of WAQUAC-NET.&lt;/p&gt;
+&lt;p&gt;Please see my posts in the newsletter from 
+&lt;a href=&#34;http://www.waquac.net/english/pdf/newsletter_vol.41_en.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Survey for the Establishment of the Experimental Field for the GNSS System Development in the Kingdom of Thailand</title>
+      <link>https://water-gis.com/project/thai_cors/</link>
+      <pubDate>Thu, 01 Nov 2018 22:11:16 +0900</pubDate>
+      <guid>https://water-gis.com/project/thai_cors/</guid>
+      <description>&lt;p&gt;Period: November 2018 to November 2019&lt;/p&gt;
+&lt;p&gt;Client: The Gevernment of Thailand&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Project for Strengthening Operation and Maintenance of Rural Water Supply Systems in Rwanda (RWASOM project)</title>
+      <link>https://water-gis.com/project/rwasom/</link>
+      <pubDate>Fri, 01 Jun 2018 22:09:24 +0900</pubDate>
+      <guid>https://water-gis.com/project/rwasom/</guid>
+      <description>&lt;p&gt;Period: June 2018 to December 2019&lt;/p&gt;
+&lt;p&gt;Client: Water and Sanitation Corporation Ltd, Rwanda&lt;/p&gt;
+&lt;p&gt;Conducted training workshops for data collection and sharing with FOSS4G applications, then designed &amp;amp; created GIS database and data sharing platform for rural water supply management in RWASOM project. Collaborated with Rwandan colleagues to complete mapping all of water supply systems in the country. The system in Rwanda uses PostGIS, Lizmap/QGIS Server, QGIS Desktop, QField and Garmin GPS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preparatory Survey for the Project for Strengthening Nzove-Ntora Principal Water Transmission Pipeline in Kigali City, Rwanda</title>
+      <link>https://water-gis.com/project/nzove-ntora/</link>
+      <pubDate>Sun, 01 Oct 2017 22:05:50 +0900</pubDate>
+      <guid>https://water-gis.com/project/nzove-ntora/</guid>
+      <description>&lt;p&gt;Period: October 2017 to November 2018&lt;/p&gt;
+&lt;p&gt;Client: Water and Sanitation Corporation Ltd, Rwanda&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[WaQuAC-NET Newsletter Vol33 ] My Activities in Narok Water</title>
+      <link>https://water-gis.com/publication/waquac-vol33/</link>
+      <pubDate>Sat, 15 Jul 2017 22:53:04 +0900</pubDate>
+      <guid>https://water-gis.com/publication/waquac-vol33/</guid>
+      <description>&lt;p&gt;Please see my post in newsletter from 
+&lt;a href=&#34;http://www.waquac.net/english/pdf/newsletter_vol.33_en.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The GIS project in Narok Water</title>
+      <link>https://water-gis.com/project/narok-water/</link>
+      <pubDate>Tue, 01 Apr 2014 08:45:17 +0900</pubDate>
+      <guid>https://water-gis.com/project/narok-water/</guid>
+      <description>&lt;p&gt;Period: April 2014 to September 2016&lt;/p&gt;
+&lt;p&gt;Client: NAROK WATER AND SEWERAGE SERVICES CO., LTD., KENYA&lt;/p&gt;
+&lt;p&gt;Worked as a GIS specialist funded by JICA and conducted the following activities.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mapped the entire water distribution network (approximately 300km length of pipeline in Total) in Narok and Ololulung’a town (Trimble GPS, ArcPAD, QGIS).&lt;/li&gt;
+&lt;li&gt;Designed and developed GIS database &amp;amp; WebGIS (PostGIS, Mapserver, Leafletjs). The system links to billing system, it helps improve their revenue collections.&lt;/li&gt;
+&lt;li&gt;Created the DMAs (District Metered Areas) for analyzing and improving Non-Revenue water management.&lt;/li&gt;
+&lt;li&gt;Conducted training to transfer technical knowledge to Kenyan colleagues, then GIS system is continuously being used up to now since it has been developed.&lt;/li&gt;
+&lt;li&gt;Consulted GIS work for 7 water services providers (Nyeri water, Kabarnet water, Kapsabet water, Nakuru water, Nakuru rural water, Naivasha water and Mavoko water) in Kenya.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software developments in Fujitsu</title>
+      <link>https://water-gis.com/project/fujitsu_ssl/</link>
+      <pubDate>Wed, 01 Apr 2009 22:15:19 +0900</pubDate>
+      <guid>https://water-gis.com/project/fujitsu_ssl/</guid>
+      <description>&lt;p&gt;Period: April 2009 to March 2017&lt;/p&gt;
+&lt;p&gt;Designed and developed following GIS applications.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the development of HD map for autonomous vehicle (ArcGIS Server, Python, Django REST framework).&lt;/li&gt;
+&lt;li&gt;the system of mapping and simulating location of ships’ movement in Singapore (Leafletjs).&lt;/li&gt;
+&lt;li&gt;Web-GIS system for the Real Property Registration system in Ministry of Justice of Japan (Mapserver, OpenLayers, Oracle).&lt;/li&gt;
+&lt;li&gt;An Android application for health care management (Java).&lt;/li&gt;
+&lt;li&gt;An area marketing system by using MapInfo.&lt;/li&gt;
+&lt;li&gt;Logistics and distribution management system with Dijkstra routing algorism (VB.NET, SQL Server, MS Access).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

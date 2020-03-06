@@ -1,16 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | GIS for Water</title>
+    <link>https://water-gis.com/publication/</link>
+      <atom:link href="https://water-gis.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Wed, 16 Oct 2019 23:09:22 +0900</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://water-gis.com/publication/</link>
     </image>
+    
+    <item>
+      <title>[WaQuAC-NET Newsletter Vol42]Site visit reports of Tohoku disaster area &amp; Bangkhen WTP in Bangkok</title>
+      <link>https://water-gis.com/publication/waquac-vol42/</link>
+      <pubDate>Wed, 16 Oct 2019 23:09:22 +0900</pubDate>
+      <guid>https://water-gis.com/publication/waquac-vol42/</guid>
+      <description>&lt;p&gt;Please see my posts in the newsletter from 
+&lt;a href=&#34;http://www.waquac.net/english/pdf/newsletter_vol.42_en.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[WaQuAC-NET Newsletter Vol41] GIS and Water Supply</title>
+      <link>https://water-gis.com/publication/waquac-vol41/</link>
+      <pubDate>Tue, 16 Jul 2019 23:01:52 +0900</pubDate>
+      <guid>https://water-gis.com/publication/waquac-vol41/</guid>
+      <description>&lt;p&gt;I did a presentation about &amp;ldquo;GIS and Water Supply&amp;rdquo; as an activity of WAQUAC-NET.&lt;/p&gt;
+&lt;p&gt;Please see my posts in the newsletter from 
+&lt;a href=&#34;http://www.waquac.net/english/pdf/newsletter_vol.41_en.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[WaQuAC-NET Newsletter Vol33 ] My Activities in Narok Water</title>
+      <link>https://water-gis.com/publication/waquac-vol33/</link>
+      <pubDate>Sat, 15 Jul 2017 22:53:04 +0900</pubDate>
+      <guid>https://water-gis.com/publication/waquac-vol33/</guid>
+      <description>&lt;p&gt;Please see my post in newsletter from 
+&lt;a href=&#34;http://www.waquac.net/english/pdf/newsletter_vol.33_en.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

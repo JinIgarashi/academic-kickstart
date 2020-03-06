@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenya | GIS for Water</title>
+    <link>https://water-gis.com/tags/kenya/</link>
+      <atom:link href="https://water-gis.com/tags/kenya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kenya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Tue, 01 Apr 2014 08:45:17 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Kenya</title>
+      <link>https://water-gis.com/tags/kenya/</link>
+    </image>
+    
+    <item>
+      <title>The GIS project in Narok Water</title>
+      <link>https://water-gis.com/project/narok-water/</link>
+      <pubDate>Tue, 01 Apr 2014 08:45:17 +0900</pubDate>
+      <guid>https://water-gis.com/project/narok-water/</guid>
+      <description>&lt;p&gt;Period: April 2014 to September 2016&lt;/p&gt;
+&lt;p&gt;Client: NAROK WATER AND SEWERAGE SERVICES CO., LTD., KENYA&lt;/p&gt;
+&lt;p&gt;Worked as a GIS specialist funded by JICA and conducted the following activities.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mapped the entire water distribution network (approximately 300km length of pipeline in Total) in Narok and Ololulung’a town (Trimble GPS, ArcPAD, QGIS).&lt;/li&gt;
+&lt;li&gt;Designed and developed GIS database &amp;amp; WebGIS (PostGIS, Mapserver, Leafletjs). The system links to billing system, it helps improve their revenue collections.&lt;/li&gt;
+&lt;li&gt;Created the DMAs (District Metered Areas) for analyzing and improving Non-Revenue water management.&lt;/li&gt;
+&lt;li&gt;Conducted training to transfer technical knowledge to Kenyan colleagues, then GIS system is continuously being used up to now since it has been developed.&lt;/li&gt;
+&lt;li&gt;Consulted GIS work for 7 water services providers (Nyeri water, Kabarnet water, Kapsabet water, Nakuru water, Nakuru rural water, Naivasha water and Mavoko water) in Kenya.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

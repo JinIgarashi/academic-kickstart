@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rwanda | GIS for Water</title>
+    <link>https://water-gis.com/tags/rwanda/</link>
+      <atom:link href="https://water-gis.com/tags/rwanda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rwanda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Fri, 01 Jun 2018 22:09:24 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Rwanda</title>
+      <link>https://water-gis.com/tags/rwanda/</link>
+    </image>
+    
+    <item>
+      <title>The Project for Strengthening Operation and Maintenance of Rural Water Supply Systems in Rwanda (RWASOM project)</title>
+      <link>https://water-gis.com/project/rwasom/</link>
+      <pubDate>Fri, 01 Jun 2018 22:09:24 +0900</pubDate>
+      <guid>https://water-gis.com/project/rwasom/</guid>
+      <description>&lt;p&gt;Period: June 2018 to December 2019&lt;/p&gt;
+&lt;p&gt;Client: Water and Sanitation Corporation Ltd, Rwanda&lt;/p&gt;
+&lt;p&gt;Conducted training workshops for data collection and sharing with FOSS4G applications, then designed &amp;amp; created GIS database and data sharing platform for rural water supply management in RWASOM project. Collaborated with Rwandan colleagues to complete mapping all of water supply systems in the country. The system in Rwanda uses PostGIS, Lizmap/QGIS Server, QGIS Desktop, QField and Garmin GPS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preparatory Survey for the Project for Strengthening Nzove-Ntora Principal Water Transmission Pipeline in Kigali City, Rwanda</title>
+      <link>https://water-gis.com/project/nzove-ntora/</link>
+      <pubDate>Sun, 01 Oct 2017 22:05:50 +0900</pubDate>
+      <guid>https://water-gis.com/project/nzove-ntora/</guid>
+      <description>&lt;p&gt;Period: October 2017 to November 2018&lt;/p&gt;
+&lt;p&gt;Client: Water and Sanitation Corporation Ltd, Rwanda&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
