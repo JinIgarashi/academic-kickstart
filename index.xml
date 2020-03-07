@@ -5,12 +5,26 @@
     <link>https://water-gis.com/</link>
       <atom:link href="https://water-gis.com/index.xml" rel="self" type="application/rss+xml" />
     <description>GIS for Water</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Wed, 16 Oct 2019 23:09:22 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Sat, 07 Mar 2020 20:38:24 +0900</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>GIS for Water</title>
       <link>https://water-gis.com/</link>
     </image>
+    
+    <item>
+      <title>Vector Tile native support in QGIS</title>
+      <link>https://water-gis.com/post/vectortile-support-qgis/</link>
+      <pubDate>Sat, 07 Mar 2020 20:38:24 +0900</pubDate>
+      <guid>https://water-gis.com/post/vectortile-support-qgis/</guid>
+      <description>&lt;p&gt;I met people from Lutraconsulting which contributes a lot for QGIS at FOSS4G Bucharest in last year.&lt;/p&gt;
+&lt;p&gt;I found they are doing crowdfunding to develop native support of vector tile on QGIS.&lt;/p&gt;
+&lt;p&gt;Recently, I started to work with OneCompath company in Tokyo, then I am using Mapbox Vector Tile. Nowadays, MVT became more and more popular. I believed this development will contribute a lot for FOSS4G comunity.&lt;/p&gt;
+&lt;p&gt;Their website of crowdfunding is 
+&lt;a href=&#34;https://www.lutraconsulting.co.uk/crowdfunding/vectortile-qgis/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The crowdfunding will close after two weeks from now.&lt;/p&gt;
+&lt;p&gt;As an individual, I also contributed 100EUR for this project&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>[WaQuAC-NET Newsletter Vol42]Site visit reports of Tohoku disaster area &amp; Bangkhen WTP in Bangkok</title>
@@ -102,7 +116,7 @@
     </item>
     
     <item>
-      <title>The GIS project in Narok Water</title>
+      <title>The GIS project in Narok Water, Kenya</title>
       <link>https://water-gis.com/project/narok-water/</link>
       <pubDate>Tue, 01 Apr 2014 08:45:17 +0900</pubDate>
       <guid>https://water-gis.com/project/narok-water/</guid>

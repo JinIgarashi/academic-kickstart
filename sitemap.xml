@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://water-gis.com/</loc>
+    <lastmod>2020-03-07T20:38:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/post/</loc>
+    <lastmod>2020-03-07T20:38:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/tags/qgis/</loc>
+    <lastmod>2020-03-07T20:38:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/tags/</loc>
+    <lastmod>2020-03-07T20:38:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/tags/vector-tile/</loc>
+    <lastmod>2020-03-07T20:38:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/post/vectortile-support-qgis/</loc>
+    <lastmod>2020-03-07T20:38:24+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/tags/3.11/</loc>
+    <lastmod>2020-03-06T23:09:22+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://water-gis.com/publication/waquac-vol42/</loc>
     <lastmod>2020-03-06T23:09:22+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://water-gis.com/</loc>
+    <loc>https://water-gis.com/tags/bangkok/</loc>
     <lastmod>2020-03-06T23:09:22+09:00</lastmod>
   </url>
   
@@ -18,12 +53,22 @@
   </url>
   
   <url>
-    <loc>https://water-gis.com/tags/</loc>
+    <loc>https://water-gis.com/tags/tohoku/</loc>
+    <lastmod>2020-03-06T23:09:22+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/tags/tsunami/</loc>
     <lastmod>2020-03-06T23:09:22+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://water-gis.com/tags/waquac-net/</loc>
+    <lastmod>2020-03-06T23:09:22+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/tags/water/</loc>
     <lastmod>2020-03-06T23:09:22+09:00</lastmod>
   </url>
   
@@ -63,17 +108,22 @@
   </url>
   
   <url>
-    <loc>https://water-gis.com/tags/fossg/</loc>
-    <lastmod>2020-03-06T22:24:22+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://water-gis.com/authors/ronoh-kennedy/</loc>
     <lastmod>2020-03-06T22:24:22+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://water-gis.com/publication/waquac-vol41/</loc>
+    <lastmod>2020-03-06T23:01:52+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/tags/gis/</loc>
+    <lastmod>2020-03-06T23:01:52+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/tags/kenya/</loc>
     <lastmod>2020-03-06T23:01:52+09:00</lastmod>
   </url>
   
@@ -98,22 +148,12 @@
   </url>
   
   <url>
-    <loc>https://water-gis.com/tags/gis/</loc>
-    <lastmod>2020-03-06T22:09:24+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://water-gis.com/tags/rwanda/</loc>
     <lastmod>2020-03-06T22:09:24+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://water-gis.com/project/rwasom/</loc>
-    <lastmod>2020-03-06T22:09:24+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://water-gis.com/tags/water/</loc>
     <lastmod>2020-03-06T22:09:24+09:00</lastmod>
   </url>
   
@@ -125,11 +165,6 @@
   <url>
     <loc>https://water-gis.com/publication/waquac-vol33/</loc>
     <lastmod>2020-03-06T22:53:04+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://water-gis.com/tags/kenya/</loc>
-    <lastmod>2020-03-06T08:45:17+09:00</lastmod>
   </url>
   
   <url>
@@ -148,10 +183,6 @@
   
   <url>
     <loc>https://water-gis.com/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://water-gis.com/post/</loc>
   </url>
   
   <url>
