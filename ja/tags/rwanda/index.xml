@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rwanda | GIS for Water</title>
+    <link>https://water-gis.com/ja/tags/rwanda/</link>
+      <atom:link href="https://water-gis.com/ja/tags/rwanda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rwanda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-JP</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Sat, 18 Apr 2020 10:55:15 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Rwanda</title>
+      <link>https://water-gis.com/ja/tags/rwanda/</link>
+    </image>
+    
+    <item>
+      <title>[WaQuAC-NET Newsletter Vol44]ミャンマーのヤンゴンとマンダレーの水道視察と、ルワンダのカウンターパートのイノセントさんのインタビュー</title>
+      <link>https://water-gis.com/ja/publication/waquac-vol44/</link>
+      <pubDate>Sat, 18 Apr 2020 10:55:15 +0900</pubDate>
+      <guid>https://water-gis.com/ja/publication/waquac-vol44/</guid>
+      <description>&lt;p&gt;会報44号において以下の２本の記事を投稿しました。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;ヤンゴンとマンダレーの水道施設を視察した際に感じたこと&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ルワンダのカウンターパートのイノセントさんが北九州市で研修を受けていたときに実施したインタビューについて&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.waquac.net/pdf/newsletter_vol.44.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;から会報をご覧いただけます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ルワンダ国地方給水運営維持管理能力強化プロジェクト(RWASOM)</title>
+      <link>https://water-gis.com/ja/project/rwasom/</link>
+      <pubDate>Fri, 01 Jun 2018 22:09:24 +0900</pubDate>
+      <guid>https://water-gis.com/ja/project/rwasom/</guid>
+      <description>&lt;p&gt;期間: 2018年6月 to 2019年12月&lt;/p&gt;
+&lt;p&gt;カウンターパート: Water and Sanitation Corporation Ltd, Rwanda&lt;/p&gt;
+&lt;p&gt;データ収集やオープンソースのGISを活用したデータ共有などのトレーニングを実施。またGISデータベースの構築とデータ共有プラットフォームを開発した。データ収集ではルワンダ人カウンターパートと協力しルワンダ全土の配水システムのデータ収集を完了させた。PostGIS, Lizmap/QGIS Server, QGIS Desktop, QField, Garmin GPSなどを活用している。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ルワンダ国キガリ市ンゾベーノトラ総帥感染強化計画協力準備調査</title>
+      <link>https://water-gis.com/ja/project/nzove-ntora/</link>
+      <pubDate>Sun, 01 Oct 2017 22:05:50 +0900</pubDate>
+      <guid>https://water-gis.com/ja/project/nzove-ntora/</guid>
+      <description>&lt;p&gt;期間: 2017年10月 〜 2018年11月&lt;/p&gt;
+&lt;p&gt;カウンターパート: Water and Sanitation Corporation Ltd, Rwanda&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

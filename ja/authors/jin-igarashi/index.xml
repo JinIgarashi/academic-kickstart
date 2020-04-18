@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jin Igarashi | GIS for Water</title>
+    <link>https://water-gis.com/ja/authors/jin-igarashi/</link>
+      <atom:link href="https://water-gis.com/ja/authors/jin-igarashi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jin Igarashi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-JP</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Sat, 18 Apr 2020 10:55:15 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jin Igarashi</title>
+      <link>https://water-gis.com/ja/authors/jin-igarashi/</link>
+    </image>
+    
+    <item>
+      <title>[WaQuAC-NET Newsletter Vol44]ミャンマーのヤンゴンとマンダレーの水道視察と、ルワンダのカウンターパートのイノセントさんのインタビュー</title>
+      <link>https://water-gis.com/ja/publication/waquac-vol44/</link>
+      <pubDate>Sat, 18 Apr 2020 10:55:15 +0900</pubDate>
+      <guid>https://water-gis.com/ja/publication/waquac-vol44/</guid>
+      <description>&lt;p&gt;会報44号において以下の２本の記事を投稿しました。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;ヤンゴンとマンダレーの水道施設を視察した際に感じたこと&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ルワンダのカウンターパートのイノセントさんが北九州市で研修を受けていたときに実施したインタビューについて&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.waquac.net/pdf/newsletter_vol.44.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;から会報をご覧いただけます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[FOSS4G2019]Case Study of Data Collection &amp; Data Sharing for Rural Water Supply Management in Rwanda</title>
+      <link>https://water-gis.com/ja/talk/foss4g2019_rwanda/</link>
+      <pubDate>Fri, 30 Aug 2019 22:27:27 +0900</pubDate>
+      <guid>https://water-gis.com/ja/talk/foss4g2019_rwanda/</guid>
+      <description>&lt;p&gt;以下、アブストラクトです。&lt;/p&gt;
+&lt;p&gt;Water and Sanitation Corporation (hereinafter, called WASAC) and Japan International Cooperation Agency (hereinafter, called JICA) are coducting the project for strengthening operation and maintenance of Rural Water Supply Systems in Rwanda (hereinafter, called RWASOM) since 2015. RWASOM mainly supports 4 model districts - Rwamagana, Kayonza, Ngoma and Kirehe at the Eastern Province in Rwanda. The project conducts developments of manual and capacity building of WASAC, Districts and Private Operators.&lt;/p&gt;
+&lt;p&gt;Currently, most of countries focus SDGs to achieve 100% water access by 2030. Because of that, it is very necessary to collect and analyse the GIS inventory data for water supply management, especially planning and improvement of operation and maintenance.&lt;/p&gt;
+&lt;p&gt;Now WASAC has started to map all of water facilities data in rural area under support of RWASOM since July 2018. Then, we also started to use collected data by offline since Feb 2019.&lt;/p&gt;
+&lt;p&gt;We spent the minimum budget to conduct our mapping and data sharing without customizing FOSS4G so much. This our approaches might be very useful for other users in developing countries. So we would like to share our experience and approach of FOSS4G in Rwanda.&lt;/p&gt;
+&lt;iframe width=&#34;512&#34; height=&#34;288&#34; src=&#34;https://media.ccc.de/v/bucharest-30-case-study-of-data-collection-data-sharing-for-rural-water-supply-management-in-rwanda/oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://media.ccc.de/v/bucharest-30-case-study-of-data-collection-data-sharing-for-rural-water-supply-management-in-rwanda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;からビデオをご覧下さい。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[FOSS4G2019]Case Study of Non-Revenue Water Management of Narok water in Kenya</title>
+      <link>https://water-gis.com/ja/talk/foss4g2019_kenya/</link>
+      <pubDate>Wed, 28 Aug 2019 22:24:22 +0900</pubDate>
+      <guid>https://water-gis.com/ja/talk/foss4g2019_kenya/</guid>
+      <description>&lt;p&gt;以下、アブストラクトです。&lt;/p&gt;
+&lt;p&gt;Narok Water and Sewerage Services Company (hereinafter, called NARWASSCO) supplies water at Narok town and Ololulung&amp;rsquo;a town in Kenya. As of February 2019,we have 4,689 water connections and 74,314m3 of water consumption in Narok, also have 580 water connections and 5,736m3 of water consumption in Ololulung&amp;rsquo;a. Total length of pipeline is 144.2km in Narok and 71.7km in Ololulung&amp;rsquo;a.&lt;/p&gt;
+&lt;p&gt;NARWASSCO, currently uses FOSS4G to do data collection and data utilization for water supply services. For example, mapping of all water facilities in the company, and the collected data have been used to improve operations (application of new connection, leakage management, meter reading, customer care, etc.). We can say Narok water is the first water company which started to use FOSS4G in Kenya.&lt;/p&gt;
+&lt;p&gt;Our interesting is how water company use GIS inventory data to reduce Non-Revenue Water (NRW). NRW means physical losses(leakage) and commercial losses(meter reading error, illegal connection, etc.). We think GIS technology can contribute a lot of things for water supply services, so we would like to share our experience and get some idea from participants of FOSS4G conference.&lt;/p&gt;
+&lt;iframe width=&#34;512&#34; height=&#34;288&#34; src=&#34;https://media.ccc.de/v/bucharest-135-case-study-of-non-revenue-water-management-of-narok-water-in-kenya/oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://media.ccc.de/v/bucharest-135-case-study-of-non-revenue-water-management-of-narok-water-in-kenya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;からビデオをご覧下さい。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>全地球航法衛星システムの整備による社会実験フィールドの構築に関する情報収集・確認調査</title>
+      <link>https://water-gis.com/ja/project/thai_cors/</link>
+      <pubDate>Thu, 01 Nov 2018 22:11:16 +0900</pubDate>
+      <guid>https://water-gis.com/ja/project/thai_cors/</guid>
+      <description>&lt;p&gt;期間: 201811月 〜 2019年11月&lt;/p&gt;
+&lt;p&gt;カウンターパート: タイ国政府&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ルワンダ国地方給水運営維持管理能力強化プロジェクト(RWASOM)</title>
+      <link>https://water-gis.com/ja/project/rwasom/</link>
+      <pubDate>Fri, 01 Jun 2018 22:09:24 +0900</pubDate>
+      <guid>https://water-gis.com/ja/project/rwasom/</guid>
+      <description>&lt;p&gt;期間: 2018年6月 to 2019年12月&lt;/p&gt;
+&lt;p&gt;カウンターパート: Water and Sanitation Corporation Ltd, Rwanda&lt;/p&gt;
+&lt;p&gt;データ収集やオープンソースのGISを活用したデータ共有などのトレーニングを実施。またGISデータベースの構築とデータ共有プラットフォームを開発した。データ収集ではルワンダ人カウンターパートと協力しルワンダ全土の配水システムのデータ収集を完了させた。PostGIS, Lizmap/QGIS Server, QGIS Desktop, QField, Garmin GPSなどを活用している。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ルワンダ国キガリ市ンゾベーノトラ総帥感染強化計画協力準備調査</title>
+      <link>https://water-gis.com/ja/project/nzove-ntora/</link>
+      <pubDate>Sun, 01 Oct 2017 22:05:50 +0900</pubDate>
+      <guid>https://water-gis.com/ja/project/nzove-ntora/</guid>
+      <description>&lt;p&gt;期間: 2017年10月 〜 2018年11月&lt;/p&gt;
+&lt;p&gt;カウンターパート: Water and Sanitation Corporation Ltd, Rwanda&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ナロック水道局でのGISプロジェクト</title>
+      <link>https://water-gis.com/ja/project/narok-water/</link>
+      <pubDate>Tue, 01 Apr 2014 08:45:17 +0900</pubDate>
+      <guid>https://water-gis.com/ja/project/narok-water/</guid>
+      <description>&lt;p&gt;期間: 2014年4月 〜 2016年9月&lt;/p&gt;
+&lt;p&gt;配属先: NAROK WATER AND SEWERAGE SERVICES CO., LTD., KENYA&lt;/p&gt;
+&lt;p&gt;JICAの青年海外協力隊として以下の活動を実施&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;管轄するナロックとオロルルンガの全ての配水システム (約300km) のマッピング (Trimble GPS, ArcPAD, QGIS).&lt;/li&gt;
+&lt;li&gt;GISデータベース及びWebGISの設計開発 (PostGIS, Mapserver, Leafletjs)。料金システムへの連携機能の開発&lt;/li&gt;
+&lt;li&gt;DMA (District Metered Areas) を作成し、無収水削減支援&lt;/li&gt;
+&lt;li&gt;GIS関係の技術指導。現在でも継続的にGISは活用されています。&lt;/li&gt;
+&lt;li&gt;ケニア国内の７つの水道局 (Nyeri water, Kabarnet water, Kapsabet water, Nakuru water, Nakuru rural water, Naivasha water and Mavoko water) に対するGIS業務にかかるコンサルティング&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>富士通Gでのシステム開発経験</title>
+      <link>https://water-gis.com/ja/project/fujitsu_ssl/</link>
+      <pubDate>Wed, 01 Apr 2009 22:15:19 +0900</pubDate>
+      <guid>https://water-gis.com/ja/project/fujitsu_ssl/</guid>
+      <description>&lt;p&gt;期間: 20094月 〜 2017年3月&lt;/p&gt;
+&lt;p&gt;以下のようなGISを中心とするシステムの開発を行いました&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HDマップの開発 (ArcGIS Server, Python, Django REST framework).&lt;/li&gt;
+&lt;li&gt;船舶の運行をモニタリングするシステムの技術調査 (Leafletjs).&lt;/li&gt;
+&lt;li&gt;不動産登記の地図情報システムにかかる技術調査 (Mapserver, OpenLayers, Oracle).&lt;/li&gt;
+&lt;li&gt;Androidでのヘルスケアアプリの開発 (Java).&lt;/li&gt;
+&lt;li&gt;MapInfoを使ったエリアマーケティングアプリ.&lt;/li&gt;
+&lt;li&gt;配送管理システムの開発 (VB.NET, SQL Server, MS Access).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

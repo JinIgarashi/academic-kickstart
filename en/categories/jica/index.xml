@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JICA | GIS for Water</title>
+    <link>https://water-gis.com/en/categories/jica/</link>
+      <atom:link href="https://water-gis.com/en/categories/jica/index.xml" rel="self" type="application/rss+xml" />
+    <description>JICA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Thu, 01 Nov 2018 22:11:16 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>JICA</title>
+      <link>https://water-gis.com/en/categories/jica/</link>
+    </image>
+    
+    <item>
+      <title>Survey for the Establishment of the Experimental Field for the GNSS System Development in the Kingdom of Thailand</title>
+      <link>https://water-gis.com/en/project/thai_cors/</link>
+      <pubDate>Thu, 01 Nov 2018 22:11:16 +0900</pubDate>
+      <guid>https://water-gis.com/en/project/thai_cors/</guid>
+      <description>&lt;p&gt;Period: November 2018 to November 2019&lt;/p&gt;
+&lt;p&gt;Client: The Gevernment of Thailand&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Project for Strengthening Operation and Maintenance of Rural Water Supply Systems in Rwanda (RWASOM project)</title>
+      <link>https://water-gis.com/en/project/rwasom/</link>
+      <pubDate>Fri, 01 Jun 2018 22:09:24 +0900</pubDate>
+      <guid>https://water-gis.com/en/project/rwasom/</guid>
+      <description>&lt;p&gt;Period: June 2018 to December 2019&lt;/p&gt;
+&lt;p&gt;Client: Water and Sanitation Corporation Ltd, Rwanda&lt;/p&gt;
+&lt;p&gt;Conducted training workshops for data collection and sharing with FOSS4G applications, then designed &amp;amp; created GIS database and data sharing platform for rural water supply management in RWASOM project. Collaborated with Rwandan colleagues to complete mapping all of water supply systems in the country. The system in Rwanda uses PostGIS, Lizmap/QGIS Server, QGIS Desktop, QField and Garmin GPS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preparatory Survey for the Project for Strengthening Nzove-Ntora Principal Water Transmission Pipeline in Kigali City, Rwanda</title>
+      <link>https://water-gis.com/en/project/nzove-ntora/</link>
+      <pubDate>Sun, 01 Oct 2017 22:05:50 +0900</pubDate>
+      <guid>https://water-gis.com/en/project/nzove-ntora/</guid>
+      <description>&lt;p&gt;Period: October 2017 to November 2018&lt;/p&gt;
+&lt;p&gt;Client: Water and Sanitation Corporation Ltd, Rwanda&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The GIS project in Narok Water, Kenya</title>
+      <link>https://water-gis.com/en/project/narok-water/</link>
+      <pubDate>Tue, 01 Apr 2014 08:45:17 +0900</pubDate>
+      <guid>https://water-gis.com/en/project/narok-water/</guid>
+      <description>&lt;p&gt;Period: April 2014 to September 2016&lt;/p&gt;
+&lt;p&gt;Client: NAROK WATER AND SEWERAGE SERVICES CO., LTD., KENYA&lt;/p&gt;
+&lt;p&gt;Worked as a GIS specialist funded by JICA and conducted the following activities.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mapped the entire water distribution network (approximately 300km length of pipeline in Total) in Narok and Ololulung’a town (Trimble GPS, ArcPAD, QGIS).&lt;/li&gt;
+&lt;li&gt;Designed and developed GIS database &amp;amp; WebGIS (PostGIS, Mapserver, Leafletjs). The system links to billing system, it helps improve their revenue collections.&lt;/li&gt;
+&lt;li&gt;Created the DMAs (District Metered Areas) for analyzing and improving Non-Revenue water management.&lt;/li&gt;
+&lt;li&gt;Conducted training to transfer technical knowledge to Kenyan colleagues, then GIS system is continuously being used up to now since it has been developed.&lt;/li&gt;
+&lt;li&gt;Consulted GIS work for 7 water services providers (Nyeri water, Kabarnet water, Kapsabet water, Nakuru water, Nakuru rural water, Naivasha water and Mavoko water) in Kenya.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

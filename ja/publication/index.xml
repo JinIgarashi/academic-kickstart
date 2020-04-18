@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | GIS for Water</title>
+    <link>https://water-gis.com/ja/publication/</link>
+      <atom:link href="https://water-gis.com/ja/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-JP</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Sat, 18 Apr 2020 10:55:15 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>https://water-gis.com/ja/publication/</link>
+    </image>
+    
+    <item>
+      <title>[WaQuAC-NET Newsletter Vol44]ミャンマーのヤンゴンとマンダレーの水道視察と、ルワンダのカウンターパートのイノセントさんのインタビュー</title>
+      <link>https://water-gis.com/ja/publication/waquac-vol44/</link>
+      <pubDate>Sat, 18 Apr 2020 10:55:15 +0900</pubDate>
+      <guid>https://water-gis.com/ja/publication/waquac-vol44/</guid>
+      <description>&lt;p&gt;会報44号において以下の２本の記事を投稿しました。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;ヤンゴンとマンダレーの水道施設を視察した際に感じたこと&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ルワンダのカウンターパートのイノセントさんが北九州市で研修を受けていたときに実施したインタビューについて&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.waquac.net/pdf/newsletter_vol.44.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;から会報をご覧いただけます。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[WaQuAC-NET Newsletter Vol42]東北被災地視察とバンコクのバンケーン浄水場視察</title>
+      <link>https://water-gis.com/ja/publication/waquac-vol42/</link>
+      <pubDate>Wed, 16 Oct 2019 23:09:22 +0900</pubDate>
+      <guid>https://water-gis.com/ja/publication/waquac-vol42/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://www.waquac.net/pdf/newsletter_vol.42.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;から会報をご覧下さい。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[WaQuAC-NET Newsletter Vol41] GISと水道について</title>
+      <link>https://water-gis.com/ja/publication/waquac-vol41/</link>
+      <pubDate>Tue, 16 Jul 2019 23:01:52 +0900</pubDate>
+      <guid>https://water-gis.com/ja/publication/waquac-vol41/</guid>
+      <description>&lt;p&gt;WAQUAC-NETの活動の中でGISと水道について発表をしました。&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://water-gis.com/files/20190716_waquac_presentation.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;から発表資料をご覧いただけます。&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.waquac.net/pdf/newsletter_vol.41.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;から投稿内容もご覧下さい.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[WaQuAC-NET Newsletter Vol33 ] ナロックでのGIS活動について</title>
+      <link>https://water-gis.com/ja/publication/waquac-vol33/</link>
+      <pubDate>Sat, 15 Jul 2017 22:53:04 +0900</pubDate>
+      <guid>https://water-gis.com/ja/publication/waquac-vol33/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://www.waquac.net/pdf/newsletter_vol.33.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;のサイトからご覧ください。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

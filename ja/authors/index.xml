@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | GIS for Water</title>
+    <link>https://water-gis.com/ja/authors/</link>
+      <atom:link href="https://water-gis.com/ja/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-JP</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Sat, 18 Apr 2020 10:55:15 +0900</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>https://water-gis.com/ja/authors/</link>
+    </image>
+    
+  </channel>
+</rss>
