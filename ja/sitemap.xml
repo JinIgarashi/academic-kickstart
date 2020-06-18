@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://water-gis.com/ja/authors/</loc>
-    <lastmod>2020-04-18T10:55:15+09:00</lastmod>
+    <lastmod>2020-06-18T20:34:23+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,7 +64,7 @@
   
   <url>
     <loc>https://water-gis.com/ja/</loc>
-    <lastmod>2020-04-18T10:55:15+09:00</lastmod>
+    <lastmod>2020-06-18T20:34:23+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -79,7 +79,7 @@
   
   <url>
     <loc>https://water-gis.com/ja/authors/jin-igarashi/</loc>
-    <lastmod>2020-04-18T10:55:15+09:00</lastmod>
+    <lastmod>2020-06-18T20:34:23+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -139,7 +139,7 @@
   
   <url>
     <loc>https://water-gis.com/ja/tags/</loc>
-    <lastmod>2020-04-18T10:55:15+09:00</lastmod>
+    <lastmod>2020-06-18T20:15:23+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -288,6 +288,36 @@
   </url>
   
   <url>
+    <loc>https://water-gis.com/ja/project/</loc>
+    <lastmod>2020-06-18T20:34:23+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://water-gis.com/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://water-gis.com/ja/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/ja/project/202002-narok-vectortile-project/</loc>
+    <lastmod>2020-06-18T20:34:23+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://water-gis.com/en/project/202002-narok-vectortile-project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://water-gis.com/ja/project/202002-narok-vectortile-project/"
+                />
+  </url>
+  
+  <url>
     <loc>https://water-gis.com/ja/tags/3.11/</loc>
     <lastmod>2020-03-06T23:09:22+09:00</lastmod>
     <xhtml:link
@@ -374,6 +404,51 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://water-gis.com/ja/tags/waquac-net/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/ja/tags/qfield/</loc>
+    <lastmod>2020-06-18T20:15:23+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://water-gis.com/en/tags/qfield/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://water-gis.com/ja/tags/qfield/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/ja/project/201909-qfield/</loc>
+    <lastmod>2020-06-18T20:15:23+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://water-gis.com/en/project/201909-qfield/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://water-gis.com/ja/project/201909-qfield/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/ja/tags/translation/</loc>
+    <lastmod>2020-06-18T20:15:23+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://water-gis.com/en/tags/translation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://water-gis.com/ja/tags/translation/"
                 />
   </url>
   
@@ -528,21 +603,6 @@
   </url>
   
   <url>
-    <loc>https://water-gis.com/ja/project/</loc>
-    <lastmod>2020-03-06T22:15:19+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://water-gis.com/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://water-gis.com/ja/project/"
-                />
-  </url>
-  
-  <url>
     <loc>https://water-gis.com/ja/tags/thailand/</loc>
     <lastmod>2020-03-06T22:11:16+09:00</lastmod>
     <xhtml:link
@@ -558,47 +618,47 @@
   </url>
   
   <url>
-    <loc>https://water-gis.com/ja/project/thai_cors/</loc>
+    <loc>https://water-gis.com/ja/project/201811-thai_cors/</loc>
     <lastmod>2020-03-06T22:11:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://water-gis.com/en/project/thai_cors/"
+                href="https://water-gis.com/en/project/201811-thai_cors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://water-gis.com/ja/project/thai_cors/"
+                href="https://water-gis.com/ja/project/201811-thai_cors/"
                 />
   </url>
   
   <url>
-    <loc>https://water-gis.com/ja/project/rwasom/</loc>
+    <loc>https://water-gis.com/ja/project/201806-rwasom/</loc>
     <lastmod>2020-03-06T22:09:24+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://water-gis.com/en/project/rwasom/"
+                href="https://water-gis.com/en/project/201806-rwasom/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://water-gis.com/ja/project/rwasom/"
+                href="https://water-gis.com/ja/project/201806-rwasom/"
                 />
   </url>
   
   <url>
-    <loc>https://water-gis.com/ja/project/nzove-ntora/</loc>
+    <loc>https://water-gis.com/ja/project/201710-nzove-ntora/</loc>
     <lastmod>2020-03-06T22:05:50+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://water-gis.com/en/project/nzove-ntora/"
+                href="https://water-gis.com/en/project/201710-nzove-ntora/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://water-gis.com/ja/project/nzove-ntora/"
+                href="https://water-gis.com/ja/project/201710-nzove-ntora/"
                 />
   </url>
   
@@ -633,32 +693,22 @@
   </url>
   
   <url>
-    <loc>https://water-gis.com/ja/project/narok-water/</loc>
+    <loc>https://water-gis.com/ja/project/201404-narok-water/</loc>
     <lastmod>2020-03-06T08:45:17+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://water-gis.com/en/project/narok-water/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://water-gis.com/ja/project/narok-water/"
-                />
   </url>
   
   <url>
-    <loc>https://water-gis.com/ja/project/fujitsu_ssl/</loc>
+    <loc>https://water-gis.com/ja/project/200904-fujitsu_ssl/</loc>
     <lastmod>2020-03-06T22:15:19+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://water-gis.com/en/project/fujitsu_ssl/"
+                href="https://water-gis.com/en/project/200904-fujitsu_ssl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://water-gis.com/ja/project/fujitsu_ssl/"
+                href="https://water-gis.com/ja/project/200904-fujitsu_ssl/"
                 />
   </url>
   
