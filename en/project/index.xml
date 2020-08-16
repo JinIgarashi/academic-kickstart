@@ -17,7 +17,19 @@
       <link>https://water-gis.com/en/project/202002-narok-vectortile-project/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0900</pubDate>
       <guid>https://water-gis.com/en/project/202002-narok-vectortile-project/</guid>
-      <description></description>
+      <description>&lt;p&gt;I developed a simple 
+&lt;a href=&#34;https://github.com/watergis/awesome-vector-tiles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open source tools&lt;/a&gt; to create and deploy vectortiles easily.&lt;/p&gt;
+&lt;p&gt;Currently, the following water services providers are using my tools.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://narok.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for Narok Water, KENYA&lt;/a&gt;: since June 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://rural.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for WASAC RWSS, RWANDA&lt;/a&gt;: since July 2020.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://nakuru.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for Nakuru Water, KENYA&lt;/a&gt;: since August 2020.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This tool is using direct SQL to create vectortiles from your PostGIS database. So, my tool can adopt any PostGIS database easily. If there is already PostGIS in your organizaiton, it is so fast to be able to host your vectorties. But please also contact me if you do not have PostGIS database yet. I will support your organization to develop PostGIS database and adopt it for vectortiles.&lt;/p&gt;
+</description>
     </item>
     
     <item>
