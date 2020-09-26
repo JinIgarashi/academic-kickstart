@@ -318,6 +318,51 @@
   </url>
   
   <url>
+    <loc>https://water-gis.com/ja/talk/foss4g2020_hokkaido/</loc>
+    <lastmod>2019-09-26T11:55:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://water-gis.com/en/talk/foss4g2020_hokkaido/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://water-gis.com/ja/talk/foss4g2020_hokkaido/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/ja/tags/foss4g/</loc>
+    <lastmod>2020-03-06T22:27:27+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://water-gis.com/en/tags/foss4g/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://water-gis.com/ja/tags/foss4g/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/ja/talk/</loc>
+    <lastmod>2020-03-06T22:27:27+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://water-gis.com/en/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://water-gis.com/ja/talk/"
+                />
+  </url>
+  
+  <url>
     <loc>https://water-gis.com/ja/tags/qfield/</loc>
     <lastmod>2020-06-18T20:15:23+09:00</lastmod>
     <xhtml:link
@@ -378,21 +423,6 @@
   </url>
   
   <url>
-    <loc>https://water-gis.com/ja/tags/foss4g/</loc>
-    <lastmod>2020-03-06T22:27:27+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://water-gis.com/en/tags/foss4g/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://water-gis.com/ja/tags/foss4g/"
-                />
-  </url>
-  
-  <url>
     <loc>https://water-gis.com/ja/authors/larissa-dusabe/</loc>
     <lastmod>2020-03-06T22:27:27+09:00</lastmod>
     <xhtml:link
@@ -404,21 +434,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://water-gis.com/ja/authors/larissa-dusabe/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://water-gis.com/ja/talk/</loc>
-    <lastmod>2020-03-06T22:27:27+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://water-gis.com/en/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://water-gis.com/ja/talk/"
                 />
   </url>
   
