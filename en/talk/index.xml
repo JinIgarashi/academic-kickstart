@@ -5,7 +5,7 @@
     <link>https://water-gis.com/en/talk/</link>
       <atom:link href="https://water-gis.com/en/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Thu, 26 Sep 2019 11:55:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Wed, 28 Oct 2020 17:30:00 +0900</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,9 +13,21 @@
     </image>
     
     <item>
+      <title>[WaQuAc-Net Webinar] A cheap and easy way to utilize GIS for effective management of water utility</title>
+      <link>https://water-gis.com/en/talk/waquacnet_gis_webinar/</link>
+      <pubDate>Wed, 28 Oct 2020 17:30:00 +0900</pubDate>
+      <guid>https://water-gis.com/en/talk/waquacnet_gis_webinar/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;GIS systems are widely used in the water supply field in the world. However, most of GIS systems have high    license fees and training costs for development, maintenance, and operation, and there are not many examples of effective use in the water supply utilities in general. Mr. Igarashi , lecturer will introduce a low-cost, easy-to-build GIS system that uses open source technology called Vector Tiles. He built it in Kenya and Rwanda as a GIS system that can be accessed by all staff of water utilities.&lt;/p&gt;
+&lt;h2 id=&#34;slide&#34;&gt;Slide&lt;/h2&gt;
+&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRnbniVVm1_Epili5j4fc5wYQZa3VeAUsncvLlCq3-aG-2xBf6sFDPz6X71XgVMYVcw9bpZAcKhm9aV/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
       <title>[FOSS4G Hokkaido 2020] Vector Tiles implementation for water services providers in Eastern Africa</title>
       <link>https://water-gis.com/en/talk/foss4g2020_hokkaido/</link>
-      <pubDate>Thu, 26 Sep 2019 11:55:00 +0900</pubDate>
+      <pubDate>Sat, 26 Sep 2020 11:55:00 +0900</pubDate>
       <guid>https://water-gis.com/en/talk/foss4g2020_hokkaido/</guid>
       <description>&lt;p&gt;Although it is presentation in Japanese language&amp;hellip;&lt;/p&gt;
 &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQRyhbW_jbsu7B0Xuta61O5jWLUAbMqbiakdIFflXJlFFkUSxnelSaMixwTW2SADlrcS2k6hrYQdW8G/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;

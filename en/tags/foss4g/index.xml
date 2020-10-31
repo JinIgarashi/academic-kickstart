@@ -5,7 +5,7 @@
     <link>https://water-gis.com/en/tags/foss4g/</link>
       <atom:link href="https://water-gis.com/en/tags/foss4g/index.xml" rel="self" type="application/rss+xml" />
     <description>FOSS4G</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Thu, 26 Sep 2019 11:55:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Sat, 26 Sep 2020 11:55:00 +0900</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>FOSS4G</title>
@@ -15,7 +15,7 @@
     <item>
       <title>[FOSS4G Hokkaido 2020] Vector Tiles implementation for water services providers in Eastern Africa</title>
       <link>https://water-gis.com/en/talk/foss4g2020_hokkaido/</link>
-      <pubDate>Thu, 26 Sep 2019 11:55:00 +0900</pubDate>
+      <pubDate>Sat, 26 Sep 2020 11:55:00 +0900</pubDate>
       <guid>https://water-gis.com/en/talk/foss4g2020_hokkaido/</guid>
       <description>&lt;p&gt;Although it is presentation in Japanese language&amp;hellip;&lt;/p&gt;
 &lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQRyhbW_jbsu7B0Xuta61O5jWLUAbMqbiakdIFflXJlFFkUSxnelSaMixwTW2SADlrcS2k6hrYQdW8G/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;

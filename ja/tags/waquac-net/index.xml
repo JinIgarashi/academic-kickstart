@@ -5,12 +5,24 @@
     <link>https://water-gis.com/ja/tags/waquac-net/</link>
       <atom:link href="https://water-gis.com/ja/tags/waquac-net/index.xml" rel="self" type="application/rss+xml" />
     <description>WaQuAC-NET</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-JP</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Wed, 16 Oct 2019 23:09:22 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-JP</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Wed, 28 Oct 2020 17:30:00 +0900</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>WaQuAC-NET</title>
       <link>https://water-gis.com/ja/tags/waquac-net/</link>
     </image>
+    
+    <item>
+      <title>[WaQuAc-Net Webinar]水道の健全経営をめざして、ベクトルタイルを使った安くて簡単なGISシステムを！</title>
+      <link>https://water-gis.com/ja/talk/waquacnet_gis_webinar/</link>
+      <pubDate>Wed, 28 Oct 2020 17:30:00 +0900</pubDate>
+      <guid>https://water-gis.com/ja/talk/waquacnet_gis_webinar/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;GISシステムは水道分野でも広く普及しているが、現状のGISシステムは開発、維持管理、操作のためのライセンス料や研修費などが高く、水道事業全般に有効に利用されている例は多くないと思われる。低コストで、簡単にGISを構築し、水道事業体の職員が誰でもアクセスできるGISシステムとしてケニアとルワンダで構築したベクトルタイルというオープンソース技術を使ったGISシステムを紹介する。&lt;/p&gt;
+&lt;h2 id=&#34;slide&#34;&gt;Slide&lt;/h2&gt;
+&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRnbniVVm1_Epili5j4fc5wYQZa3VeAUsncvLlCq3-aG-2xBf6sFDPz6X71XgVMYVcw9bpZAcKhm9aV/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>[WaQuAC-NET Newsletter Vol42]東北被災地視察とバンコクのバンケーン浄水場視察</title>

@@ -5,12 +5,33 @@
     <link>https://water-gis.com/ja/</link>
       <atom:link href="https://water-gis.com/ja/index.xml" rel="self" type="application/rss+xml" />
     <description>GIS for Water</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-JP</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Sat, 18 Apr 2020 10:55:15 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-JP</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Wed, 28 Oct 2020 17:30:00 +0900</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>GIS for Water</title>
       <link>https://water-gis.com/ja/</link>
     </image>
+    
+    <item>
+      <title>[WaQuAc-Net Webinar]水道の健全経営をめざして、ベクトルタイルを使った安くて簡単なGISシステムを！</title>
+      <link>https://water-gis.com/ja/talk/waquacnet_gis_webinar/</link>
+      <pubDate>Wed, 28 Oct 2020 17:30:00 +0900</pubDate>
+      <guid>https://water-gis.com/ja/talk/waquacnet_gis_webinar/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;GISシステムは水道分野でも広く普及しているが、現状のGISシステムは開発、維持管理、操作のためのライセンス料や研修費などが高く、水道事業全般に有効に利用されている例は多くないと思われる。低コストで、簡単にGISを構築し、水道事業体の職員が誰でもアクセスできるGISシステムとしてケニアとルワンダで構築したベクトルタイルというオープンソース技術を使ったGISシステムを紹介する。&lt;/p&gt;
+&lt;h2 id=&#34;slide&#34;&gt;Slide&lt;/h2&gt;
+&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRnbniVVm1_Epili5j4fc5wYQZa3VeAUsncvLlCq3-aG-2xBf6sFDPz6X71XgVMYVcw9bpZAcKhm9aV/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[FOSS4G Hokkaido 2020] 東アフリカの水道事業体における水道データのベクトルタイル運用の試み</title>
+      <link>https://water-gis.com/ja/talk/foss4g2020_hokkaido/</link>
+      <pubDate>Sat, 26 Sep 2020 11:55:00 +0900</pubDate>
+      <guid>https://water-gis.com/ja/talk/foss4g2020_hokkaido/</guid>
+      <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQRyhbW_jbsu7B0Xuta61O5jWLUAbMqbiakdIFflXJlFFkUSxnelSaMixwTW2SADlrcS2k6hrYQdW8G/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>[WaQuAC-NET Newsletter Vol44]ミャンマーのヤンゴンとマンダレーの水道視察と、ルワンダのカウンターパートのイノセントさんのインタビュー</title>
@@ -58,15 +79,6 @@
       <guid>https://water-gis.com/ja/publication/waquac-vol42/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;http://www.waquac.net/pdf/newsletter_vol.42.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;から会報をご覧下さい。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>[FOSS4G Hokkaido 2020] 東アフリカの水道事業体における水道データのベクトルタイル運用の試み</title>
-      <link>https://water-gis.com/ja/talk/foss4g2020_hokkaido/</link>
-      <pubDate>Thu, 26 Sep 2019 11:55:00 +0900</pubDate>
-      <guid>https://water-gis.com/ja/talk/foss4g2020_hokkaido/</guid>
-      <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQRyhbW_jbsu7B0Xuta61O5jWLUAbMqbiakdIFflXJlFFkUSxnelSaMixwTW2SADlrcS2k6hrYQdW8G/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
