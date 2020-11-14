@@ -5,7 +5,7 @@
     <link>https://water-gis.com/ja/talk/</link>
       <atom:link href="https://water-gis.com/ja/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-JP</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Wed, 28 Oct 2020 17:30:00 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-JP</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Fri, 13 Nov 2020 12:40:00 +0900</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,10 +13,23 @@
     </image>
     
     <item>
+      <title>[FOSS4G Korea 2020] 東アフリカの水道局におけるベクトルタイル実装のユースケース</title>
+      <link>https://water-gis.com/ja/talk/20201113_foss4g_korea_2020/</link>
+      <pubDate>Fri, 13 Nov 2020 12:40:00 +0900</pubDate>
+      <guid>https://water-gis.com/ja/talk/20201113_foss4g_korea_2020/</guid>
+      <description>&lt;h2 id=&#34;アブストラクト&#34;&gt;アブストラクト&lt;/h2&gt;
+&lt;p&gt;東アフリカでは、多くの水道局で既にGISデータを何らか持っている。しかしながらそのデータを水道局内で活用・共有して行く際に課題を抱えるケースが多々ある。私は2014年からケニアとルワンダのプロジェクトに関わってきた。最近、ベクトルタイルをオープンデータとして運用することでGISデータをサステイナブルに共有していく方法を知った。東アフリカの水道局向けに開発したこれらオープンソースのツールの紹介をしたい。次のウェブサイトにはオープンソースソフトのドキュメントを整備しています。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.water-gis.com&#34;&gt;https://docs.water-gis.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;スライド&#34;&gt;スライド&lt;/h2&gt;
+&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTLVaKKtopofh_tITh_PUSh_tKlYKdjy7RmmJg1O_dSlvG7cKO4FyYJIa9vOPyKfp46PreA1n3LkP-E/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
       <title>[WaQuAc-Net Webinar]水道の健全経営をめざして、ベクトルタイルを使った安くて簡単なGISシステムを！</title>
-      <link>https://water-gis.com/ja/talk/waquacnet_gis_webinar/</link>
+      <link>https://water-gis.com/ja/talk/20201028_waquacnet_gis_webinar/</link>
       <pubDate>Wed, 28 Oct 2020 17:30:00 +0900</pubDate>
-      <guid>https://water-gis.com/ja/talk/waquacnet_gis_webinar/</guid>
+      <guid>https://water-gis.com/ja/talk/20201028_waquacnet_gis_webinar/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;GISシステムは水道分野でも広く普及しているが、現状のGISシステムは開発、維持管理、操作のためのライセンス料や研修費などが高く、水道事業全般に有効に利用されている例は多くないと思われる。低コストで、簡単にGISを構築し、水道事業体の職員が誰でもアクセスできるGISシステムとしてケニアとルワンダで構築したベクトルタイルというオープンソース技術を使ったGISシステムを紹介する。&lt;/p&gt;
 &lt;h2 id=&#34;slide&#34;&gt;Slide&lt;/h2&gt;
@@ -26,18 +39,18 @@
     
     <item>
       <title>[FOSS4G Hokkaido 2020] 東アフリカの水道事業体における水道データのベクトルタイル運用の試み</title>
-      <link>https://water-gis.com/ja/talk/foss4g2020_hokkaido/</link>
+      <link>https://water-gis.com/ja/talk/20200926_foss4g2020_hokkaido/</link>
       <pubDate>Sat, 26 Sep 2020 11:55:00 +0900</pubDate>
-      <guid>https://water-gis.com/ja/talk/foss4g2020_hokkaido/</guid>
+      <guid>https://water-gis.com/ja/talk/20200926_foss4g2020_hokkaido/</guid>
       <description>&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQRyhbW_jbsu7B0Xuta61O5jWLUAbMqbiakdIFflXJlFFkUSxnelSaMixwTW2SADlrcS2k6hrYQdW8G/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>[FOSS4G2019]Case Study of Data Collection &amp; Data Sharing for Rural Water Supply Management in Rwanda</title>
-      <link>https://water-gis.com/ja/talk/foss4g2019_rwanda/</link>
+      <link>https://water-gis.com/ja/talk/20190830_foss4g2019_rwanda/</link>
       <pubDate>Fri, 30 Aug 2019 22:27:27 +0900</pubDate>
-      <guid>https://water-gis.com/ja/talk/foss4g2019_rwanda/</guid>
+      <guid>https://water-gis.com/ja/talk/20190830_foss4g2019_rwanda/</guid>
       <description>&lt;p&gt;以下、アブストラクトです。&lt;/p&gt;
 &lt;p&gt;Water and Sanitation Corporation (hereinafter, called WASAC) and Japan International Cooperation Agency (hereinafter, called JICA) are coducting the project for strengthening operation and maintenance of Rural Water Supply Systems in Rwanda (hereinafter, called RWASOM) since 2015. RWASOM mainly supports 4 model districts - Rwamagana, Kayonza, Ngoma and Kirehe at the Eastern Province in Rwanda. The project conducts developments of manual and capacity building of WASAC, Districts and Private Operators.&lt;/p&gt;
 &lt;p&gt;Currently, most of countries focus SDGs to achieve 100% water access by 2030. Because of that, it is very necessary to collect and analyse the GIS inventory data for water supply management, especially planning and improvement of operation and maintenance.&lt;/p&gt;
@@ -51,9 +64,9 @@
     
     <item>
       <title>[FOSS4G2019]Case Study of Non-Revenue Water Management of Narok water in Kenya</title>
-      <link>https://water-gis.com/ja/talk/foss4g2019_kenya/</link>
+      <link>https://water-gis.com/ja/talk/20190828_foss4g2019_kenya/</link>
       <pubDate>Wed, 28 Aug 2019 22:24:22 +0900</pubDate>
-      <guid>https://water-gis.com/ja/talk/foss4g2019_kenya/</guid>
+      <guid>https://water-gis.com/ja/talk/20190828_foss4g2019_kenya/</guid>
       <description>&lt;p&gt;以下、アブストラクトです。&lt;/p&gt;
 &lt;p&gt;Narok Water and Sewerage Services Company (hereinafter, called NARWASSCO) supplies water at Narok town and Ololulung&amp;rsquo;a town in Kenya. As of February 2019,we have 4,689 water connections and 74,314m3 of water consumption in Narok, also have 580 water connections and 5,736m3 of water consumption in Ololulung&amp;rsquo;a. Total length of pipeline is 144.2km in Narok and 71.7km in Ololulung&amp;rsquo;a.&lt;/p&gt;
 &lt;p&gt;NARWASSCO, currently uses FOSS4G to do data collection and data utilization for water supply services. For example, mapping of all water facilities in the company, and the collected data have been used to improve operations (application of new connection, leakage management, meter reading, customer care, etc.). We can say Narok water is the first water company which started to use FOSS4G in Kenya.&lt;/p&gt;
