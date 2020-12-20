@@ -1,34 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Myanmar | GIS for Water</title>
-    <link>https://water-gis.com/ja/tags/myanmar/</link>
-      <atom:link href="https://water-gis.com/ja/tags/myanmar/index.xml" rel="self" type="application/rss+xml" />
-    <description>Myanmar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-JP</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Sat, 18 Apr 2020 10:55:15 +0900</lastBuildDate>
-    <image>
-      <url>https://water-gis.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Myanmar</title>
-      <link>https://water-gis.com/ja/tags/myanmar/</link>
-    </image>
-    
-    <item>
-      <title>[WaQuAC-NET Newsletter Vol44]ミャンマーのヤンゴンとマンダレーの水道視察と、ルワンダのカウンターパートのイノセントさんのインタビュー</title>
-      <link>https://water-gis.com/ja/publication/waquac-vol44/</link>
-      <pubDate>Sat, 18 Apr 2020 10:55:15 +0900</pubDate>
-      <guid>https://water-gis.com/ja/publication/waquac-vol44/</guid>
-      <description>&lt;p&gt;会報44号において以下の２本の記事を投稿しました。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;ヤンゴンとマンダレーの水道施設を視察した際に感じたこと&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ルワンダのカウンターパートのイノセントさんが北九州市で研修を受けていたときに実施したインタビューについて&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;a href=&#34;http://www.waquac.net/pdf/newsletter_vol.44.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;から会報をご覧いただけます。&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Myanmar | GIS for Water</title><link>https://water-gis.com/ja/tags/myanmar/</link><atom:link href="https://water-gis.com/ja/tags/myanmar/index.xml" rel="self" type="application/rss+xml"/><description>Myanmar</description><generator>Wowchemy (https://wowchemy.com)</generator><language>ja-JP</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Sat, 18 Apr 2020 10:55:15 +0900</lastBuildDate><image><url>https://water-gis.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url><title>Myanmar</title><link>https://water-gis.com/ja/tags/myanmar/</link></image><item><title>[WaQuAC-NET Newsletter Vol44]ミャンマーのヤンゴンとマンダレーの水道視察と、ルワンダのカウンターパートのイノセントさんのインタビュー</title><link>https://water-gis.com/ja/publication/waquac-vol44/</link><pubDate>Sat, 18 Apr 2020 10:55:15 +0900</pubDate><guid>https://water-gis.com/ja/publication/waquac-vol44/</guid><description>&lt;p>会報44号において以下の２本の記事を投稿しました。&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>ヤンゴンとマンダレーの水道施設を視察した際に感じたこと&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>ルワンダのカウンターパートのイノセントさんが北九州市で研修を受けていたときに実施したインタビューについて&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;a href="http://www.waquac.net/pdf/newsletter_vol.44.pdf" target="_blank" rel="noopener">こちら&lt;/a>から会報をご覧いただけます。&lt;/p></description></item></channel></rss>
