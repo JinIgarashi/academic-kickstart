@@ -5,9 +5,9 @@
     <link>https://water-gis.com/ja/authors/jin-igarashi/</link>
       <atom:link href="https://water-gis.com/ja/authors/jin-igarashi/index.xml" rel="self" type="application/rss+xml" />
     <description>Jin Igarashi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-JP</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Fri, 13 Nov 2020 12:40:00 +0900</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-JP</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Fri, 13 Nov 2020 12:40:00 +0900</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://water-gis.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Jin Igarashi</title>
       <link>https://water-gis.com/ja/authors/jin-igarashi/</link>
     </image>
@@ -60,8 +60,7 @@
 &lt;p&gt;ルワンダのカウンターパートのイノセントさんが北九州市で研修を受けていたときに実施したインタビューについて&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://www.waquac.net/pdf/newsletter_vol.44.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;から会報をご覧いただけます。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.waquac.net/pdf/newsletter_vol.44.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;から会報をご覧いただけます。&lt;/p&gt;
 </description>
     </item>
     
@@ -70,16 +69,12 @@
       <link>https://water-gis.com/ja/project/202002-narok-vectortile-project/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0900</pubDate>
       <guid>https://water-gis.com/ja/project/202002-narok-vectortile-project/</guid>
-      <description>&lt;p&gt;ベクタータイルを簡単に作成し、ホストできる
-&lt;a href=&#34;https://github.com/watergis/awesome-vector-tiles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;オープンソースのツール&lt;/a&gt;を開発しました。&lt;/p&gt;
+      <description>&lt;p&gt;ベクタータイルを簡単に作成し、ホストできる&lt;a href=&#34;https://github.com/watergis/awesome-vector-tiles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;オープンソースのツール&lt;/a&gt;を開発しました。&lt;/p&gt;
 &lt;p&gt;現在時点で、以下の３つの水道事業体でこのツールは使用されています。&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://narok.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for Narok Water, KENYA&lt;/a&gt;: since June 2020.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://rural.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for WASAC RWSS, RWANDA&lt;/a&gt;: since July 2020.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://nakuru.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for Nakuru Water, KENYA&lt;/a&gt;: since August 2020.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://narok.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for Narok Water, KENYA&lt;/a&gt;: since June 2020.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rural.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for WASAC RWSS, RWANDA&lt;/a&gt;: since July 2020.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nakuru.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for Nakuru Water, KENYA&lt;/a&gt;: since August 2020.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;このツールはSQLを使用してダイレクトにPostGISからベクタータイルを作成しますので、あらゆるデザインのPostGISに容易に適用できます。もし既にPostGISを使用している場合は迅速に開発に着手できます。仮にデータベースをまだお持ちでない場合でもご相談いただければ、データベースの設計とベクタータイルへの設定をサポートさせていただきます。&lt;/p&gt;
 </description>
@@ -90,11 +85,9 @@
       <link>https://water-gis.com/ja/project/201909-qfield/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0900</pubDate>
       <guid>https://water-gis.com/ja/project/201909-qfield/</guid>
-      <description>&lt;p&gt;2019年9月からAndroidのモバイルマッピングアプリである
-&lt;a href=&#34;https://qfield.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QField&lt;/a&gt;の英語から日本語への翻訳を担当し始めました。&lt;/p&gt;
+      <description>&lt;p&gt;2019年9月からAndroidのモバイルマッピングアプリである&lt;a href=&#34;https://qfield.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QField&lt;/a&gt;の英語から日本語への翻訳を担当し始めました。&lt;/p&gt;
 &lt;p&gt;FOSS4G 2019 Bucharestのコードスプリントで、Matthias (OpenGIS.ch) さんとお会いしたのがきっかけでQFieldプロジェクトに関わることになりました。 QFieldはとても優れたAndroidのモバイルマッピングアプリで、QGISとの互換性も申し分ないです。日本語への翻訳を通して、日本人のより多くの方にもQFieldを現場で使っていただけたらと感じています。&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://qfield.org/docs/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;のページで私の翻訳してドキュメントをご覧いただけます。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://qfield.org/docs/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;のページで私の翻訳してドキュメントをご覧いただけます。&lt;/p&gt;
 </description>
     </item>
     
@@ -109,8 +102,7 @@
 &lt;p&gt;Now WASAC has started to map all of water facilities data in rural area under support of RWASOM since July 2018. Then, we also started to use collected data by offline since Feb 2019.&lt;/p&gt;
 &lt;p&gt;We spent the minimum budget to conduct our mapping and data sharing without customizing FOSS4G so much. This our approaches might be very useful for other users in developing countries. So we would like to share our experience and approach of FOSS4G in Rwanda.&lt;/p&gt;
 &lt;iframe width=&#34;512&#34; height=&#34;288&#34; src=&#34;https://media.ccc.de/v/bucharest-30-case-study-of-data-collection-data-sharing-for-rural-water-supply-management-in-rwanda/oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://media.ccc.de/v/bucharest-30-case-study-of-data-collection-data-sharing-for-rural-water-supply-management-in-rwanda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;からビデオをご覧下さい。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://media.ccc.de/v/bucharest-30-case-study-of-data-collection-data-sharing-for-rural-water-supply-management-in-rwanda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;からビデオをご覧下さい。&lt;/p&gt;
 </description>
     </item>
     
@@ -124,8 +116,7 @@
 &lt;p&gt;NARWASSCO, currently uses FOSS4G to do data collection and data utilization for water supply services. For example, mapping of all water facilities in the company, and the collected data have been used to improve operations (application of new connection, leakage management, meter reading, customer care, etc.). We can say Narok water is the first water company which started to use FOSS4G in Kenya.&lt;/p&gt;
 &lt;p&gt;Our interesting is how water company use GIS inventory data to reduce Non-Revenue Water (NRW). NRW means physical losses(leakage) and commercial losses(meter reading error, illegal connection, etc.). We think GIS technology can contribute a lot of things for water supply services, so we would like to share our experience and get some idea from participants of FOSS4G conference.&lt;/p&gt;
 &lt;iframe width=&#34;512&#34; height=&#34;288&#34; src=&#34;https://media.ccc.de/v/bucharest-135-case-study-of-non-revenue-water-management-of-narok-water-in-kenya/oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://media.ccc.de/v/bucharest-135-case-study-of-non-revenue-water-management-of-narok-water-in-kenya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;からビデオをご覧下さい。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://media.ccc.de/v/bucharest-135-case-study-of-non-revenue-water-management-of-narok-water-in-kenya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;からビデオをご覧下さい。&lt;/p&gt;
 </description>
     </item>
     

@@ -5,9 +5,9 @@
     <link>https://water-gis.com/ja/authors/larissa-dusabe/</link>
       <atom:link href="https://water-gis.com/ja/authors/larissa-dusabe/index.xml" rel="self" type="application/rss+xml" />
     <description>Larissa Dusabe</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-JP</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Fri, 30 Aug 2019 22:27:27 +0900</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja-JP</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Fri, 30 Aug 2019 22:27:27 +0900</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://water-gis.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Larissa Dusabe</title>
       <link>https://water-gis.com/ja/authors/larissa-dusabe/</link>
     </image>
@@ -23,8 +23,7 @@
 &lt;p&gt;Now WASAC has started to map all of water facilities data in rural area under support of RWASOM since July 2018. Then, we also started to use collected data by offline since Feb 2019.&lt;/p&gt;
 &lt;p&gt;We spent the minimum budget to conduct our mapping and data sharing without customizing FOSS4G so much. This our approaches might be very useful for other users in developing countries. So we would like to share our experience and approach of FOSS4G in Rwanda.&lt;/p&gt;
 &lt;iframe width=&#34;512&#34; height=&#34;288&#34; src=&#34;https://media.ccc.de/v/bucharest-30-case-study-of-data-collection-data-sharing-for-rural-water-supply-management-in-rwanda/oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://media.ccc.de/v/bucharest-30-case-study-of-data-collection-data-sharing-for-rural-water-supply-management-in-rwanda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;からビデオをご覧下さい。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://media.ccc.de/v/bucharest-30-case-study-of-data-collection-data-sharing-for-rural-water-supply-management-in-rwanda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;こちら&lt;/a&gt;からビデオをご覧下さい。&lt;/p&gt;
 </description>
     </item>
     

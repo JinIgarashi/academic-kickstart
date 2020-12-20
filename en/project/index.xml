@@ -5,9 +5,9 @@
     <link>https://water-gis.com/en/project/</link>
       <atom:link href="https://water-gis.com/en/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0900</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0900</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://water-gis.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://water-gis.com/en/project/</link>
     </image>
@@ -17,16 +17,12 @@
       <link>https://water-gis.com/en/project/202002-narok-vectortile-project/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0900</pubDate>
       <guid>https://water-gis.com/en/project/202002-narok-vectortile-project/</guid>
-      <description>&lt;p&gt;I developed a simple 
-&lt;a href=&#34;https://github.com/watergis/awesome-vector-tiles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open source tools&lt;/a&gt; to create and deploy vectortiles easily.&lt;/p&gt;
+      <description>&lt;p&gt;I developed a simple &lt;a href=&#34;https://github.com/watergis/awesome-vector-tiles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open source tools&lt;/a&gt; to create and deploy vectortiles easily.&lt;/p&gt;
 &lt;p&gt;Currently, the following water services providers are using my tools.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://narok.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for Narok Water, KENYA&lt;/a&gt;: since June 2020.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://rural.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for WASAC RWSS, RWANDA&lt;/a&gt;: since July 2020.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://nakuru.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for Nakuru Water, KENYA&lt;/a&gt;: since August 2020.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://narok.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for Narok Water, KENYA&lt;/a&gt;: since June 2020.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rural.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for WASAC RWSS, RWANDA&lt;/a&gt;: since July 2020.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nakuru.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for Nakuru Water, KENYA&lt;/a&gt;: since August 2020.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;This tool is using direct SQL to create vectortiles from your PostGIS database. So, my tool can adopt any PostGIS database easily. If there is already PostGIS in your organizaiton, it is so fast to be able to host your vectorties. But please also contact me if you do not have PostGIS database yet. I will support your organization to develop PostGIS database and adopt it for vectortiles.&lt;/p&gt;
 </description>
@@ -37,11 +33,9 @@
       <link>https://water-gis.com/en/project/201909-qfield/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0900</pubDate>
       <guid>https://water-gis.com/en/project/201909-qfield/</guid>
-      <description>&lt;p&gt;I started to translate Android mobile mapping application - 
-&lt;a href=&#34;https://qfield.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QField&lt;/a&gt; from English to Japanese since September 2019.&lt;/p&gt;
+      <description>&lt;p&gt;I started to translate Android mobile mapping application - &lt;a href=&#34;https://qfield.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QField&lt;/a&gt; from English to Japanese since September 2019.&lt;/p&gt;
 &lt;p&gt;I met Mr. Matthias (OpenGIS.ch) at code sprint of FOSS4G 2019 Bucharest, then I got involved QField project. QField is great tool and very much compatible with QGIS. I wish I can constribute to Japan&amp;rsquo;s QGIS community to use it more and more in field.&lt;/p&gt;
-&lt;p&gt;You can see some of my translation from 
-&lt;a href=&#34;https://qfield.org/docs/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can see some of my translation from &lt;a href=&#34;https://qfield.org/docs/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

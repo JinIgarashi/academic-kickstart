@@ -5,9 +5,9 @@
     <link>https://water-gis.com/en/tags/qfield/</link>
       <atom:link href="https://water-gis.com/en/tags/qfield/index.xml" rel="self" type="application/rss+xml" />
     <description>QField</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0900</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0900</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://water-gis.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>QField</title>
       <link>https://water-gis.com/en/tags/qfield/</link>
     </image>
@@ -17,11 +17,9 @@
       <link>https://water-gis.com/en/project/201909-qfield/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0900</pubDate>
       <guid>https://water-gis.com/en/project/201909-qfield/</guid>
-      <description>&lt;p&gt;I started to translate Android mobile mapping application - 
-&lt;a href=&#34;https://qfield.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QField&lt;/a&gt; from English to Japanese since September 2019.&lt;/p&gt;
+      <description>&lt;p&gt;I started to translate Android mobile mapping application - &lt;a href=&#34;https://qfield.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QField&lt;/a&gt; from English to Japanese since September 2019.&lt;/p&gt;
 &lt;p&gt;I met Mr. Matthias (OpenGIS.ch) at code sprint of FOSS4G 2019 Bucharest, then I got involved QField project. QField is great tool and very much compatible with QGIS. I wish I can constribute to Japan&amp;rsquo;s QGIS community to use it more and more in field.&lt;/p&gt;
-&lt;p&gt;You can see some of my translation from 
-&lt;a href=&#34;https://qfield.org/docs/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can see some of my translation from &lt;a href=&#34;https://qfield.org/docs/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

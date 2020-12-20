@@ -258,21 +258,6 @@
   </url>
   
   <url>
-    <loc>https://water-gis.com/ja/tags/water/</loc>
-    <lastmod>2020-04-18T10:55:15+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://water-gis.com/en/tags/water/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://water-gis.com/ja/tags/water/"
-                />
-  </url>
-  
-  <url>
     <loc>https://water-gis.com/ja/tags/water-supply/</loc>
     <lastmod>2020-04-18T10:55:15+09:00</lastmod>
     <xhtml:link
@@ -389,6 +374,21 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://water-gis.com/ja/tags/tsunami/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://water-gis.com/ja/tags/water/</loc>
+    <lastmod>2020-03-06T23:09:22+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://water-gis.com/en/tags/water/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://water-gis.com/ja/tags/water/"
                 />
   </url>
   

@@ -5,9 +5,9 @@
     <link>https://water-gis.com/en/authors/jin-igarashi/</link>
       <atom:link href="https://water-gis.com/en/authors/jin-igarashi/index.xml" rel="self" type="application/rss+xml" />
     <description>Jin Igarashi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Fri, 13 Nov 2020 12:40:00 +0900</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Fri, 13 Nov 2020 12:40:00 +0900</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://water-gis.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Jin Igarashi</title>
       <link>https://water-gis.com/en/authors/jin-igarashi/</link>
     </image>
@@ -62,8 +62,7 @@ The following website is a documentation for my open source softwares.&lt;/p&gt;
 &lt;p&gt;An interview to my Rwandan counterpart - Mr. Innocent while he participated the training in Kitakyushu, Japan&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Please see my posts in the newsletter from 
-&lt;a href=&#34;http://www.waquac.net/english/pdf/newsletter_vol.44_en.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please see my posts in the newsletter from &lt;a href=&#34;http://www.waquac.net/english/pdf/newsletter_vol.44_en.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -72,16 +71,12 @@ The following website is a documentation for my open source softwares.&lt;/p&gt;
       <link>https://water-gis.com/en/project/202002-narok-vectortile-project/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0900</pubDate>
       <guid>https://water-gis.com/en/project/202002-narok-vectortile-project/</guid>
-      <description>&lt;p&gt;I developed a simple 
-&lt;a href=&#34;https://github.com/watergis/awesome-vector-tiles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open source tools&lt;/a&gt; to create and deploy vectortiles easily.&lt;/p&gt;
+      <description>&lt;p&gt;I developed a simple &lt;a href=&#34;https://github.com/watergis/awesome-vector-tiles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open source tools&lt;/a&gt; to create and deploy vectortiles easily.&lt;/p&gt;
 &lt;p&gt;Currently, the following water services providers are using my tools.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://narok.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for Narok Water, KENYA&lt;/a&gt;: since June 2020.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://rural.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for WASAC RWSS, RWANDA&lt;/a&gt;: since July 2020.&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://nakuru.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for Nakuru Water, KENYA&lt;/a&gt;: since August 2020.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://narok.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for Narok Water, KENYA&lt;/a&gt;: since June 2020.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rural.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for WASAC RWSS, RWANDA&lt;/a&gt;: since July 2020.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nakuru.water-gis.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Water Supply Map for Nakuru Water, KENYA&lt;/a&gt;: since August 2020.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;This tool is using direct SQL to create vectortiles from your PostGIS database. So, my tool can adopt any PostGIS database easily. If there is already PostGIS in your organizaiton, it is so fast to be able to host your vectorties. But please also contact me if you do not have PostGIS database yet. I will support your organization to develop PostGIS database and adopt it for vectortiles.&lt;/p&gt;
 </description>
@@ -92,11 +87,9 @@ The following website is a documentation for my open source softwares.&lt;/p&gt;
       <link>https://water-gis.com/en/project/201909-qfield/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0900</pubDate>
       <guid>https://water-gis.com/en/project/201909-qfield/</guid>
-      <description>&lt;p&gt;I started to translate Android mobile mapping application - 
-&lt;a href=&#34;https://qfield.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QField&lt;/a&gt; from English to Japanese since September 2019.&lt;/p&gt;
+      <description>&lt;p&gt;I started to translate Android mobile mapping application - &lt;a href=&#34;https://qfield.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QField&lt;/a&gt; from English to Japanese since September 2019.&lt;/p&gt;
 &lt;p&gt;I met Mr. Matthias (OpenGIS.ch) at code sprint of FOSS4G 2019 Bucharest, then I got involved QField project. QField is great tool and very much compatible with QGIS. I wish I can constribute to Japan&amp;rsquo;s QGIS community to use it more and more in field.&lt;/p&gt;
-&lt;p&gt;You can see some of my translation from 
-&lt;a href=&#34;https://qfield.org/docs/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can see some of my translation from &lt;a href=&#34;https://qfield.org/docs/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -110,8 +103,7 @@ The following website is a documentation for my open source softwares.&lt;/p&gt;
 &lt;p&gt;Now WASAC has started to map all of water facilities data in rural area under support of RWASOM since July 2018. Then, we also started to use collected data by offline since Feb 2019.&lt;/p&gt;
 &lt;p&gt;We spent the minimum budget to conduct our mapping and data sharing without customizing FOSS4G so much. This our approaches might be very useful for other users in developing countries. So we would like to share our experience and approach of FOSS4G in Rwanda.&lt;/p&gt;
 &lt;iframe width=&#34;512&#34; height=&#34;288&#34; src=&#34;https://media.ccc.de/v/bucharest-30-case-study-of-data-collection-data-sharing-for-rural-water-supply-management-in-rwanda/oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;See the video from 
-&lt;a href=&#34;https://media.ccc.de/v/bucharest-30-case-study-of-data-collection-data-sharing-for-rural-water-supply-management-in-rwanda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See the video from &lt;a href=&#34;https://media.ccc.de/v/bucharest-30-case-study-of-data-collection-data-sharing-for-rural-water-supply-management-in-rwanda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -124,8 +116,7 @@ The following website is a documentation for my open source softwares.&lt;/p&gt;
 &lt;p&gt;NARWASSCO, currently uses FOSS4G to do data collection and data utilization for water supply services. For example, mapping of all water facilities in the company, and the collected data have been used to improve operations (application of new connection, leakage management, meter reading, customer care, etc.). We can say Narok water is the first water company which started to use FOSS4G in Kenya.&lt;/p&gt;
 &lt;p&gt;Our interesting is how water company use GIS inventory data to reduce Non-Revenue Water (NRW). NRW means physical losses(leakage) and commercial losses(meter reading error, illegal connection, etc.). We think GIS technology can contribute a lot of things for water supply services, so we would like to share our experience and get some idea from participants of FOSS4G conference.&lt;/p&gt;
 &lt;iframe width=&#34;512&#34; height=&#34;288&#34; src=&#34;https://media.ccc.de/v/bucharest-135-case-study-of-non-revenue-water-management-of-narok-water-in-kenya/oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;See the video from 
-&lt;a href=&#34;https://media.ccc.de/v/bucharest-135-case-study-of-non-revenue-water-management-of-narok-water-in-kenya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See the video from &lt;a href=&#34;https://media.ccc.de/v/bucharest-135-case-study-of-non-revenue-water-management-of-narok-water-in-kenya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

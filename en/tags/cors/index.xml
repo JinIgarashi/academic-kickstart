@@ -5,9 +5,9 @@
     <link>https://water-gis.com/en/tags/cors/</link>
       <atom:link href="https://water-gis.com/en/tags/cors/index.xml" rel="self" type="application/rss+xml" />
     <description>CORS</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Thu, 01 Nov 2018 22:11:16 +0900</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Thu, 01 Nov 2018 22:11:16 +0900</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://water-gis.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>CORS</title>
       <link>https://water-gis.com/en/tags/cors/</link>
     </image>

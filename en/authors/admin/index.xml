@@ -5,9 +5,9 @@
     <link>https://water-gis.com/en/authors/admin/</link>
       <atom:link href="https://water-gis.com/en/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>GIS for Water</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://water-gis.com/en/authors/admin/avatar_hu59dae1577c2447622fa9a9f5af49dbf0_201249_270x270_fill_q90_lanczos_center.jpg</url>
       <title>GIS for Water</title>
       <link>https://water-gis.com/en/authors/admin/</link>
     </image>

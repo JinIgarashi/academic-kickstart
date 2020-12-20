@@ -5,9 +5,9 @@
     <link>https://water-gis.com/en/tags/foss4g/</link>
       <atom:link href="https://water-gis.com/en/tags/foss4g/index.xml" rel="self" type="application/rss+xml" />
     <description>FOSS4G</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Fri, 13 Nov 2020 12:40:00 +0900</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Jin IGARASHI 2020</copyright><lastBuildDate>Fri, 13 Nov 2020 12:40:00 +0900</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://water-gis.com/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>FOSS4G</title>
       <link>https://water-gis.com/en/tags/foss4g/</link>
     </image>
@@ -46,8 +46,7 @@ The following website is a documentation for my open source softwares.&lt;/p&gt;
 &lt;p&gt;Now WASAC has started to map all of water facilities data in rural area under support of RWASOM since July 2018. Then, we also started to use collected data by offline since Feb 2019.&lt;/p&gt;
 &lt;p&gt;We spent the minimum budget to conduct our mapping and data sharing without customizing FOSS4G so much. This our approaches might be very useful for other users in developing countries. So we would like to share our experience and approach of FOSS4G in Rwanda.&lt;/p&gt;
 &lt;iframe width=&#34;512&#34; height=&#34;288&#34; src=&#34;https://media.ccc.de/v/bucharest-30-case-study-of-data-collection-data-sharing-for-rural-water-supply-management-in-rwanda/oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;See the video from 
-&lt;a href=&#34;https://media.ccc.de/v/bucharest-30-case-study-of-data-collection-data-sharing-for-rural-water-supply-management-in-rwanda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See the video from &lt;a href=&#34;https://media.ccc.de/v/bucharest-30-case-study-of-data-collection-data-sharing-for-rural-water-supply-management-in-rwanda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -60,8 +59,7 @@ The following website is a documentation for my open source softwares.&lt;/p&gt;
 &lt;p&gt;NARWASSCO, currently uses FOSS4G to do data collection and data utilization for water supply services. For example, mapping of all water facilities in the company, and the collected data have been used to improve operations (application of new connection, leakage management, meter reading, customer care, etc.). We can say Narok water is the first water company which started to use FOSS4G in Kenya.&lt;/p&gt;
 &lt;p&gt;Our interesting is how water company use GIS inventory data to reduce Non-Revenue Water (NRW). NRW means physical losses(leakage) and commercial losses(meter reading error, illegal connection, etc.). We think GIS technology can contribute a lot of things for water supply services, so we would like to share our experience and get some idea from participants of FOSS4G conference.&lt;/p&gt;
 &lt;iframe width=&#34;512&#34; height=&#34;288&#34; src=&#34;https://media.ccc.de/v/bucharest-135-case-study-of-non-revenue-water-management-of-narok-water-in-kenya/oembed&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;See the video from 
-&lt;a href=&#34;https://media.ccc.de/v/bucharest-135-case-study-of-non-revenue-water-management-of-narok-water-in-kenya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;See the video from &lt;a href=&#34;https://media.ccc.de/v/bucharest-135-case-study-of-non-revenue-water-management-of-narok-water-in-kenya&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
